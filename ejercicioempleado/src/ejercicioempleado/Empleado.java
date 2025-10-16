@@ -23,7 +23,7 @@ public class Empleado {
         this.salario = salario; // Si cumple, se asigna el valor
     }else{
             //mostramos el siguiente mensaje en la consola si no se cumple con las condiciones
-            System.out.println("el salario no puede ser menor a minimo (1300000)");
+            System.out.println("el salario no puede ser menor a minimo (1450000)");
         } 
     }
     // Método getter para obtener el salario del empleado
