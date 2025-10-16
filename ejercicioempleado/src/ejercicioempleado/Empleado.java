@@ -38,7 +38,7 @@ public class Empleado {
             salario+=aumento;  // Suma el aumento al salario actual
             
             //muestro el siguiente mensaje en la consola
-            System.out.println("El salario ha sido imcrementado en un " +porcentaje + " % nuevo salario: " +salario);
+            System.out.println("El salario ha sido incrementado en un " +porcentaje + " % nuevo salario: " +salario);
     }else{
             //muestro el siguiente mensaje en la consola
             System.out.println("el porcentaje tiene que ser mayor que 0");
