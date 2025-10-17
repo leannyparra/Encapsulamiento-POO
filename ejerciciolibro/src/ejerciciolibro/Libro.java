@@ -31,7 +31,7 @@ public class Libro {
           this.pagina = pagina;   // Si cumple la condición, se asigna el valor
          }else{
             //muestro el siguiente mensaje si no se cumple con la condicion 
-            System.out.println("El numero de paguinas debe ser mayor a 10");
+            System.out.println("El numero de paginas debe ser mayor a 10");
         }
     }
     // Método getter para obtener la cantidad de páginas del libro
